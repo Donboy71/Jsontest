@@ -1,11 +1,20 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "Id":99,
+  "Type":1,
+  "Name":"TestName",
+  "NameList":[
+    "Alex",
+    "Susi",
+    "Otto",
+    "Uschi"
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Value":100,
+  "ValueList":[
+    10,
+    20,
+    30,
+    40
+  ],
+  "Date1":"2019-07-02T08:48:37.587545+02:00",
+  "Date2":"2019-07-02T08:48:37.882017+02:00"
 }
